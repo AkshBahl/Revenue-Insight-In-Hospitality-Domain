@@ -10,4 +10,4 @@ Benefits:
 Streamlined data interpretation for stakeholders, leading to better business decisions regarding room pricing, occupancy management, and platform optimizations.
 Improved transparency and enhanced reporting by showcasing critical KPIs in an intuitive format.
 
-![WhatsApp Image 2024-11-18 at 23 57 18_00fa8f0c](https://github.com/user-attachments/assets/075510ec-5ad8-46e3-83af-536927790e00)
+![image](https://github.com/user-attachments/assets/97fa9c5f-a213-4b2f-b89b-a7b995b839ab)
